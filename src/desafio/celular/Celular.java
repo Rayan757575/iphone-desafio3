@@ -31,7 +31,7 @@ public class Celular implements ReprodutorMusical, NavegadorNaInternet, Aparelho
 	}
 
 	@Override
-	public void atualiarrPagina() {
+	public void atualizarPagina() {
 		System.out.println("Atualizano página");
 		
 	}
